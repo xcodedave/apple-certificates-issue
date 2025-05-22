@@ -1,4 +1,4 @@
-# apple-certificates-issue
+# swift-certificates-issue
 A demo of `swift-certificates` synthesized initializer issues when archiving a library for distribution when including 
 a dependency upon the [swift-certificates](https://github.com/apple/swift-certificates) package.
 
